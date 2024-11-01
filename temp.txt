@@ -1,1 +1,7 @@
 Hello World!
+This is commit 1
+This is commit 2
+This is commit 4
+Fixed the bug
+
+In the middle of creatingc changed for commit5 but they aren't ready yet.
